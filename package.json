@@ -4,6 +4,10 @@
   "description": "A vibrant VS Code theme inspired by the gradient transitions between Google's signature colors and the iconic Gopher blue of the Go programming language — by Safak.",
   "icon": "icon.png",
   "publisher": "Safak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/safak7/poly-gopher-dark-blue"
+  },
   "keywords": [
     "go",
     "golang",
