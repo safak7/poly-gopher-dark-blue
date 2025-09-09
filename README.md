@@ -9,9 +9,9 @@
 ## ✨ Features
 
 - 🎨 **Colorful & vibrant** syntax highlighting  
-- 🌗 Works great in **dark & light UI settings**  
+- 🌗 Works great in **dark settings**  
 - 💻 Optimized for **frontend, backend, and Go developers**  
-- 🧩 Balanced contrast for long coding sessions  
+- 🧩 **Created using blended colors inspired by Google’s signature palette combined with Gopher Blue**
 - 🚀 Designed to make your code **look beautiful & readable**  
 
 ---
