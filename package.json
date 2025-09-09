@@ -22,7 +22,7 @@
     "theme",
     "golang theme"
   ],
-  "version": "0.3.0",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.103.0"
   },
