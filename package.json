@@ -1,0 +1,37 @@
+{
+  "name": "poly-gopher-dark-blue",
+  "displayName": "PolyGopher",
+  "description": "A vibrant VS Code theme inspired by the gradient transitions between Google's signature colors and the iconic Gopher blue of the Go programming language — by Safak.",
+  "icon": "icon.png",
+  "publisher": "Safak",
+  "keywords": [
+    "go",
+    "golang",
+    "gopher",
+    "dark theme",
+    "gradient",
+    "google colors",
+    "blue",
+    "vibrant",
+    "colorful",
+    "modern",
+    "theme",
+    "golang theme"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PolyGopher",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PolyGopher-color-theme.json"
+      }
+    ]
+  }
+}
