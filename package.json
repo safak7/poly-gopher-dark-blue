@@ -24,7 +24,7 @@
   ],
   "version": "0.5.0",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
